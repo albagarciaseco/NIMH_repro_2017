@@ -300,7 +300,7 @@ Ctl+Shift+p or CMD+Shift+p depending on the system we are using.
 
 When we first open the settings we see the some tabs on the left of the
 settings window. If we select the "Packages" tab we can see we have a number of 
-packages that come pre-installed with Atom. 
+packages that come pre-installed with Atom. #how do you open the settings?
 
 We will now enable one of the core packages. When working with IPython and Atom
 we don't want to have a situation where we have written text into Atom that is
